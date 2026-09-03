@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/4qubetech/static/css/main.ce8451f1.css",
+    "main.js": "/4qubetech/static/js/main.ef898249.js",
+    "static/js/453.29dd56b7.chunk.js": "/4qubetech/static/js/453.29dd56b7.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/4qubetech/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/4qubetech/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/4qubetech/index.html",
+    "main.ce8451f1.css.map": "/4qubetech/static/css/main.ce8451f1.css.map",
+    "main.ef898249.js.map": "/4qubetech/static/js/main.ef898249.js.map",
+    "453.29dd56b7.chunk.js.map": "/4qubetech/static/js/453.29dd56b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce8451f1.css",
+    "static/js/main.ef898249.js"
+  ]
+}
