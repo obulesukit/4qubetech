@@ -39,7 +39,7 @@ const Home = () => {
                       <div className="inner-column">
 
                         <h5 className="text-white">
-                          Welcome to Our Company
+                          Welcome to  4Qube
                         </h5>
 
                         <h1 className="title animate-2">

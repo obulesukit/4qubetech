@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  FaLaptopCode as Laptop,
+  // FaLaptopCode as Laptop,
   FaServer as Server,
   FaCloud as Cloud,
   FaHeadset as Headset,
