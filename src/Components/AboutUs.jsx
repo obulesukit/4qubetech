@@ -142,7 +142,7 @@ const AboutUs = () => {
                 className="fw-bold text-uppercase"
                 style={{ color: "#ffffff", fontSize: 13, letterSpacing: 1 }}
               >
-                About Us
+                About Us | 4Qube Technologies Sdn Bhd
               </span>
               <h1
                 className="fw-bold text-white"
